@@ -28,6 +28,7 @@ Precog_CV_CNN/
 ├── precog_cnn.ipynb
 ├── failures_doc.pdf
 ├── report.pdf
+├── unbiased_mnist.ipynb
 ├── presentation.pdf
 └── README.md
 
@@ -35,7 +36,7 @@ Precog_CV_CNN/
 ```
 
 ## Commands to run project:
-All the code is present in `precog_cnn.ipynb` with a dialogue to explain, introduce and motivate each cell in the notebook. Additionally, all plots generated are downloaded at the end into an archived zip file that can be extracted for further reference and inspection.
+All the code is present in `precog_cnn.ipynb` with a dialogue to explain, introduce and motivate each cell in the notebook. Additionally, all plots generated are downloaded at the end into an archived zip file that can be extracted for further reference and inspection. The `unbiased_mnist.ipynb` notebook contains the same functions on the standard MNIST dataset for comparison.
 
 Report and presentation were crafted using the afforementioned plots and LATEX.
 
